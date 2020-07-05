@@ -32,7 +32,7 @@
 .content-Area{
     top: 50px;
     position: relative;
-    left: 50px;
+    
 }
 div#demotext h1 {
     padding-bottom: 20px;
@@ -43,10 +43,13 @@ div#demotext h1 {
 }
 
 .content-Area h1 {
-    font-size: 80px;
+    font-size: 65px;
     text-transform: uppercase;
 }
 span {
     position: relative;
     left: 67px;
+}
+.mainImage img {
+    width: 750px;
 }

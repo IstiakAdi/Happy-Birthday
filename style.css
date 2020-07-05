@@ -73,7 +73,7 @@ span {
 }
 .mainImage.main1 img {
     width: 100%;
-    height: 400px;
+    height: 350px;
 }
 .mainImage img {
 
@@ -82,5 +82,9 @@ span {
     border-radius: 30px;
 }
 .col-md-6.images.ratul img {
-    height: 580px;
+    height: 500px;
+}
+.mainImage.main2 img {
+    width: 400px;
+    height: 350px;
 }

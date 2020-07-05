@@ -21,18 +21,14 @@
     margin-bottom: 40px;
 }
 .content-Area{
-    position: relative
-    top:0;
-}
-.content-Area {
-    width: 321px;
-    
-    color: black;
-}
-.content-Area{
-    top: 50px;
     position: relative;
-    
+    top:0;
+    top: 50px;
+    width: 321px;
+     
+}
+ 
+
 }
 div#demotext h1 {
     padding-bottom: 20px;
